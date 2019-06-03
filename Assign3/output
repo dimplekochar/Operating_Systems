@@ -1,0 +1,201 @@
+Produced 0
+Consumed 0 by worker 1
+Produced 1
+Consumed 1 by worker 2
+Produced 2
+Produced 3
+Produced 4
+Produced 5
+Produced 6
+Produced 7
+Produced 8
+Consumed 8 by worker 3
+Consumed 7 by worker 9
+Consumed 6 by worker 1
+Consumed 5 by worker 8
+Consumed 4 by worker 1
+Consumed 3 by worker 1
+Consumed 2 by worker 8
+Produced 9
+Consumed 9 by worker 7
+Produced 10
+Consumed 10 by worker 5
+Produced 11
+Produced 12
+Produced 13
+Consumed 13 by worker 2
+Produced 14
+Produced 15
+Consumed 15 by worker 2
+Consumed 14 by worker 9
+Consumed 12 by worker 2
+Consumed 11 by worker 2
+Produced 16
+Consumed 16 by worker 10
+Produced 17
+Consumed 17 by worker 5
+Produced 18
+Consumed 18 by worker 16
+Produced 19
+Produced 20
+Produced 21
+Produced 22
+Produced 23
+Produced 24
+Consumed 24 by worker 16
+Consumed 23 by worker 11
+Consumed 22 by worker 2
+Consumed 21 by worker 11
+Consumed 20 by worker 2
+Consumed 19 by worker 8
+Produced 25
+Consumed 25 by worker 2
+Produced 26
+Consumed 26 by worker 2
+Produced 27
+Produced 28
+Produced 29
+Produced 30
+Consumed 30 by worker 12
+Produced 31
+Consumed 31 by worker 12
+Produced 32
+Consumed 32 by worker 18
+Produced 33
+Produced 34
+Produced 35
+Consumed 35 by worker 18
+Consumed 34 by worker 15
+Produced 36
+Produced 37
+Produced 38
+Consumed 38 by worker 10
+Consumed 37 by worker 15
+Produced 39
+Consumed 39 by worker 15
+Consumed 36 by worker 15
+Produced 40
+Consumed 40 by worker 17
+Produced 41
+Produced 42
+Consumed 42 by worker 17
+Consumed 41 by worker 15
+Produced 43
+Consumed 43 by worker 8
+Consumed 33 by worker 15
+Consumed 29 by worker 8
+Consumed 28 by worker 8
+Consumed 27 by worker 15
+Produced 44
+Consumed 44 by worker 8
+Produced 45
+Consumed 45 by worker 20
+Produced 46
+Produced 47
+Produced 48
+Produced 49
+Produced 50
+Consumed 50 by worker 20
+Produced 51
+Produced 52
+Produced 53
+Produced 54
+Produced 55
+Consumed 55 by worker 20
+Produced 56
+Consumed 56 by worker 6
+Produced 57
+Consumed 57 by worker 6
+Consumed 54 by worker 20
+Produced 58
+Consumed 58 by worker 20
+Consumed 53 by worker 1
+Consumed 52 by worker 8
+Consumed 51 by worker 20
+Consumed 49 by worker 20
+Consumed 48 by worker 5
+Consumed 47 by worker 20
+Consumed 46 by worker 30
+Produced 59
+Produced 60
+Consumed 60 by worker 20
+Produced 61
+Produced 62
+Consumed 62 by worker 1
+Consumed 61 by worker 20
+Consumed 59 by worker 1
+Produced 63
+Consumed 63 by worker 20
+Produced 64
+Consumed 64 by worker 5
+Produced 65
+Consumed 65 by worker 5
+Produced 66
+Consumed 66 by worker 5
+Produced 67
+Consumed 67 by worker 5
+Produced 68
+Consumed 68 by worker 5
+Produced 69
+Consumed 69 by worker 64
+Produced 70
+Produced 71
+Consumed 71 by worker 64
+Consumed 70 by worker 74
+Produced 72
+Produced 73
+Produced 74
+Consumed 74 by worker 18
+Produced 75
+Produced 76
+Produced 77
+Produced 78
+Consumed 78 by worker 217
+Produced 79
+Produced 80
+Consumed 80 by worker 74
+Produced 81
+Consumed 81 by worker 74
+Consumed 79 by worker 76
+Consumed 77 by worker 38
+Consumed 76 by worker 76
+Consumed 75 by worker 6
+Consumed 73 by worker 76
+Consumed 72 by worker 76
+Produced 82
+Produced 83
+Produced 84
+Produced 85
+Consumed 85 by worker 74
+Produced 86
+Consumed 86 by worker 287
+Produced 87
+Produced 88
+Consumed 88 by worker 38
+Consumed 87 by worker 87
+Produced 89
+Consumed 89 by worker 38
+Produced 90
+Consumed 90 by worker 38
+Consumed 84 by worker 87
+Consumed 83 by worker 38
+Consumed 82 by worker 38
+Produced 91
+Consumed 91 by worker 366
+Produced 92
+Consumed 92 by worker 170
+Produced 93
+Produced 94
+Produced 95
+Produced 96
+Produced 97
+Produced 98
+Consumed 98 by worker 170
+Produced 99
+Consumed 99 by worker 170
+Consumed 97 by worker 170
+Consumed 96 by worker 170
+Consumed 95 by worker 170
+Consumed 94 by worker 483
+Consumed 93 by worker 170
+master joined

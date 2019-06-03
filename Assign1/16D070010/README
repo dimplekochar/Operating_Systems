@@ -1,0 +1,16 @@
+Please do go through the code once as the auto grader script wasn't working perfectly...
+
+Here's is what I understood from the assignment and what I have implemented.
+1) sleep 5
+For this command, shell forks a child and waits for it to finish. Basically, user can input next command only afer 5 seconds. On doing ctrl-C this command is killed and command prompt appears.
+2) sleep 5 &
+For this command, shell forks a child but doesn't wait for it. So, command prompt comes back immediately. The code stores the pid of this process and after every input by the user, checks if the process is terminated. If yes, "Shell: Background process finished" is printed. Else this process status is not checked till the user inputs again. ctrl-c does not affect it.
+3) sleep 5 && sleep 10
+For this command, shell forks a child and waits for it to finish. Basically, after 5 seconds, sleep 10 starts running. Basically, user can input next command only afer 15 seconds. On doing ctrl-c in the first 5 seconds, sleep 5 is killed and sleep 10 starts running. On doing a second ctrl-c, sleep 10 is killed and prompt comes back. 
+4) sleep 5 &&& sleep 10
+For this command, shell forks two children and waits for them to finish in parallel. Basically, user can input next command only afer max(5, 10) seconds. Doing one ctrl-c kills both of these processes, and brings back the prompt.
+
+On typing exit, it kills all background processes and displays "Shell: Goodbye."
+On any incorrect command, shell displays "Shell: Incorrect command"
+
+
